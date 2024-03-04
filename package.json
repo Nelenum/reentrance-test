@@ -11,6 +11,7 @@
     "solidity",
     "test"
   ],
+  "repository": "https://github.com/Nelenum/reentrance-test.git",
   "author": "vicx",
   "license": "MIT",
   "dependencies": {
